@@ -1,5 +1,5 @@
 {
-    "name": "renoki-co/laravel-aws-webhooks",
+    "name": "wilsonglasser/laravel-aws-webhooks",
     "description": "Easy webhook handler for Laravel to catch AWS SNS notifications for various services.",
     "keywords": [
         "laravel",
@@ -20,8 +20,8 @@
         }
     ],
     "require": {
-        "illuminate/http": "^8.83|^9.0.1",
-        "illuminate/support": "^8.83|^9.0.1",
+        "illuminate/http": "^8.0|^9.0",
+        "illuminate/support": "^8.0|^9.0",
         "rennokki/laravel-sns-events": "^7.1"
     },
     "autoload": {
