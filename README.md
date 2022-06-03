@@ -13,6 +13,9 @@ Laravel AWS Webhooks is an easy webhook handler for Laravel to catch AWS SNS not
 
 Laravel AWS Webhooks leverages [renoki-co/laravel-sns-events](https://github.com/renoki-co/laravel-sns-events), a package that implements the basic functionalities of SNS HTTP/HTTPS requests, so that you can focus just on handing the event.
 
+## This Fork
+Update to use Laravel 9
+
 ## 🤝 Supporting
 
 **If you are using one or more Renoki Co. open-source packages in your production apps, in presentation demos, hobby projects, school projects or so, sponsor our work with [Github Sponsors](https://github.com/sponsors/rennokki). 📦**
